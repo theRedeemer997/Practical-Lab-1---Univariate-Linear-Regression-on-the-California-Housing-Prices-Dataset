@@ -1,5 +1,5 @@
-# Lab2 Data Collection and Pre-processing
-This repository contains the complete code for the Lab2 of Machine Learning Programming.
+# Practical Lab 1 - Univariate Linear Regression on the California Housing Prices Dataset
+This repository contains the complete code for the Lab1 of Fondations Of Machine Learning Frameworks.
 
 ---
 # About 
